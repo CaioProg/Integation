@@ -1,0 +1,15 @@
+C:\Users\CaioLucas\Workspace\ApiPloomes\ApiPloomes\bin\Debug\net6.0\ApiPloomes.exe
+C:\Users\CaioLucas\Workspace\ApiPloomes\ApiPloomes\bin\Debug\net6.0\ApiPloomes.deps.json
+C:\Users\CaioLucas\Workspace\ApiPloomes\ApiPloomes\bin\Debug\net6.0\ApiPloomes.runtimeconfig.json
+C:\Users\CaioLucas\Workspace\ApiPloomes\ApiPloomes\bin\Debug\net6.0\ApiPloomes.dll
+C:\Users\CaioLucas\Workspace\ApiPloomes\ApiPloomes\bin\Debug\net6.0\ApiPloomes.pdb
+C:\Users\CaioLucas\Workspace\ApiPloomes\ApiPloomes\obj\Debug\net6.0\ApiPloomes.csproj.AssemblyReference.cache
+C:\Users\CaioLucas\Workspace\ApiPloomes\ApiPloomes\obj\Debug\net6.0\ApiPloomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CaioLucas\Workspace\ApiPloomes\ApiPloomes\obj\Debug\net6.0\ApiPloomes.AssemblyInfoInputs.cache
+C:\Users\CaioLucas\Workspace\ApiPloomes\ApiPloomes\obj\Debug\net6.0\ApiPloomes.AssemblyInfo.cs
+C:\Users\CaioLucas\Workspace\ApiPloomes\ApiPloomes\obj\Debug\net6.0\ApiPloomes.csproj.CoreCompileInputs.cache
+C:\Users\CaioLucas\Workspace\ApiPloomes\ApiPloomes\obj\Debug\net6.0\ApiPloomes.dll
+C:\Users\CaioLucas\Workspace\ApiPloomes\ApiPloomes\obj\Debug\net6.0\refint\ApiPloomes.dll
+C:\Users\CaioLucas\Workspace\ApiPloomes\ApiPloomes\obj\Debug\net6.0\ApiPloomes.pdb
+C:\Users\CaioLucas\Workspace\ApiPloomes\ApiPloomes\obj\Debug\net6.0\ApiPloomes.genruntimeconfig.cache
+C:\Users\CaioLucas\Workspace\ApiPloomes\ApiPloomes\obj\Debug\net6.0\ref\ApiPloomes.dll
